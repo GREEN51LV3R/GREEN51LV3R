@@ -3,7 +3,7 @@
 - 👀 I’m interested in Cyber Security, Bug Bounty, CTF etc.
 - 🌱 I’m currently learning Web Security and Bash Scripting
 - ⚡️ I'm always open to learn new tech
-- 💞️ I’m looking to collaborate on Cyber Security projects
+- 💞️ I’m looking to collaborate on Cyber Security projects and the things that look cool.
 - 📫 Feel free to contact me on Linkedin, Twitter.
 
 <!---
